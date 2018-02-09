@@ -1,0 +1,25 @@
+{
+	"name": "ninelines-preloader",
+	"version": "1.0.7",
+	"description": "Preloader for your website",
+	"keywords": [
+		"preloader"
+	],
+	"author": "Alex Nikishkin <mapuaptu@gmail.com>",
+	"contributors": [
+		"Dmitry Artemov <d.artemov@9-lines.com>"
+	],
+	"license": "ISC",
+	"homepage": "https://github.com/ninelines-team/ninelines-preloader#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ninelines-team/ninelines-preloader.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ninelines-team/ninelines-preloader/issues"
+	},
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
