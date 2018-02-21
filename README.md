@@ -15,7 +15,7 @@ npm install --save ninelines-preloader
 Подключаем стили:
 
 ```scss
-@import "node_modules/ninelines-preloader/src/index";
+@import "node_modules/ninelines-preloader/src/ninelines-preloader";
 ```
 
 Подключаем скрипт:
