@@ -26,6 +26,7 @@ $ninelines-preloader-color: #000 !default;
 
 	&::before,
 	&::after {
+		content: "";
 		position: fixed;
 		left: 50%;
 		top: 50%;

@@ -6,7 +6,7 @@
 
 ### NPM
 
-```
+```bash
 npm install --save ninelines-preloader
 ```
 
