@@ -8,8 +8,12 @@ module.exports = {
 	output: {
 		path: path.resolve(__dirname, 'dist'),
 		filename: '[name].js',
-		library: 'ninelines',
+		library: [
+			'ninelines',
+			'Preloader',
+		],
 		libraryTarget: 'umd',
+		libraryExport: 'Preloader',
 	},
 	module: {
 		rules: [
