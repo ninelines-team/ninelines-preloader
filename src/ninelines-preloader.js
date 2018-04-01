@@ -1,4 +1,4 @@
-export class Preloader {
+export default class Preloader {
 	/**
 	 * @param {string|string[]|number} src
 	 * @param {number} [minTime]

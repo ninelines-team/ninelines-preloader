@@ -13,7 +13,7 @@ module.exports = {
 			'Preloader',
 		],
 		libraryTarget: 'umd',
-		libraryExport: 'Preloader',
+		libraryExport: 'default',
 	},
 	module: {
 		rules: [

@@ -21,7 +21,7 @@ npm install --save ninelines-preloader
 Подключаем скрипт:
 
 ```js
-import {Preloader} from 'ninelines-preloader';
+import Preloader from 'ninelines-preloader';
 ```
 
 > При отсутствии модульной системы библиотека (`dist/ninelines-preloader.js`) экспортирует `Preloader` в глобальный объект `ninelines`:
